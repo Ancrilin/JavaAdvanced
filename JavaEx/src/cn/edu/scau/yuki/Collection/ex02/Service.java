@@ -68,6 +68,7 @@ public class Service {
 		System.out.println("1、创建联系人");
 		System.out.println("2、查询联系人");
 		System.out.println("3、删除联系人");
+		System.out.println("0、退出");
 		System.out.println("**************");
 	}
 }
